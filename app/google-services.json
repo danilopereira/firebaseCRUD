@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1078900929420",
+    "firebase_url": "https://demobaas-cb151.firebaseio.com",
+    "project_id": "demobaas-cb151",
+    "storage_bucket": "demobaas-cb151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078900929420:android:3918138a1aaa1fc6",
+        "android_client_info": {
+          "package_name": "br.com.fiap.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078900929420-5hkuuentu9o24ohjohldki4s0o5ag208.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjD6Eyz0gjhQFZmuo3iK9Ohq-Kr4q9s1E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
